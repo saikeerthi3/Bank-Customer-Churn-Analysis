@@ -1,7 +1,6 @@
 ## Customer Churn Analysis Dashboard
 
-### Dashboard link: https://app.powerbi.com/groups/me/reports/e19a0d67-9cc3-4967-afb0-4a1b5e259f6b/ReportSection?experience=power-bi
-
+### Dashboard link: [https://app.powerbi.com/groups/me/reports/e19a0d67-9cc3-4967-afb0-4a1b5e259f6b/ReportSection?experience=power-bi
 ## Problem Statement:
 
 Customer churn is the percentage of customers who stop using a company's products or services during a certain time frame. It is a critical metric because a high churn rate can significantly impact the profitability and long-term success of a business. This analysis will help the bank deploy effective retention strategies, ultimately preserving revenue and enhancing customer satisfaction.
