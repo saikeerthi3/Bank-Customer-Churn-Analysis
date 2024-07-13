@@ -4,7 +4,7 @@
 
 ## Problem Statement:
 
-Customer churn is the percentage of customers who stop using a company's products or services during a certain time frame. It is a critical metric because a high churn rate can significantly impact the profitability and long-term success of a business. This project aims to develop a predictive model that accurately determines the likelihood of a bank customer discontinuing services within the next six months. The model will help the bank deploy effective retention strategies, ultimately preserving revenue and enhancing customer satisfaction.
+Customer churn is the percentage of customers who stop using a company's products or services during a certain time frame. It is a critical metric because a high churn rate can significantly impact the profitability and long-term success of a business. This analysis will help the bank deploy effective retention strategies, ultimately preserving revenue and enhancing customer satisfaction.
 
 ![image](https://github.com/user-attachments/assets/af4f7ebd-0423-42a2-bc31-97f9de1ff8d0)
 
@@ -33,6 +33,7 @@ Age: The customer's age in years.
 Tenure: The number of years the customer has been with the bank.
 
 Balance: The account balance maintained by the customer.
+
 NumOfProducts: The number of banking products used by the customer.
 
 HasCrCard: Indicates whether the customer has a credit card with the bank (1 for Yes, 0 for No).
@@ -40,6 +41,7 @@ HasCrCard: Indicates whether the customer has a credit card with the bank (1 for
 IsActiveMember: Indicates whether the customer is considered an active member based on their account activity (1 for Yes, 0 for No).
 
 EstimatedSalary: The estimated annual salary of the customer.
+
 Exited: Indicates whether the customer has churned (1 for Yes, 0 for No). This is the target variable for our predictive model.
 
 ### New Measures
